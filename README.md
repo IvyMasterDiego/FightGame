@@ -1,3 +1,3 @@
 # FightGame
 
-Juego De pelea de ninja V 1.0
+Juego De pelea de ninja ver 1.0
